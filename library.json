@@ -1,13 +1,14 @@
 {
     "name": "ppl",
-    "version": "1.0.0",
+    "version": "1.1.0",
+    "keywords": "debug,sensors",
     "repository": {
         "type": "git",
         "url": "https://github.com/pyrogenic/ppl.git"
     },
-    "dependencies": {
+    "dependencies": [{
         "owner": "milesburton",
         "name": "DallasTemperature",
         "version": "^3.9.1"
-    }
+    }]
 }
